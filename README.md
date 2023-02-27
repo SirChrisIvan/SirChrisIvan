@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 😅
 - 👯 I’m looking to learn more about Programming and working with others to gain more experience
-- 🥅 2022 Goals: Learn more about Java, and C#
+- 🥅 2023 Goals: Learn more about Java, and C#
 - ⚡ Fun fact: I love to Read and ride my FixedGear Bike to relax
 
 ### Connect with me:
