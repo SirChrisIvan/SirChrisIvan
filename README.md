@@ -12,5 +12,5 @@
 
 [![youtube](assests/images/icons8-youtube-48.png)](https://www.youtube.com/channel/UC2ii8jgXQ5uWtZhoEk0_tTQ)
 [![GitHub](assests/images/icons8-github-50.png)](https://github.com/SirChrisIvan)
-[![Twitter](assests/images/icons8-twitter-color/icons8-twitter-48.pngicons8-twitter-48.png)](https://twitter.com/?lang=en)
+[![Twitter](assests/images/icons8-twitter-color/icons8-twitter-48.png)](https://twitter.com/?lang=en)
 [![Steam](assests/images/icons8-steam-circled-50.png)](https://store.steampowered.com/)
