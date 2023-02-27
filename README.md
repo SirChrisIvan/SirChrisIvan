@@ -11,8 +11,8 @@
 ### Connect with me:
 
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@chrisivanovski1750#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@chrisivanovski1750#gh-dark-mode-only)
+[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />./img/youtube-light.svg)](https://www.youtube.com/@chrisivanovski1750#gh-light-mode-only)
+[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />./img/youtube-dark.svg)](https://www.youtube.com/@chrisivanovski1750#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
@@ -23,7 +23,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages and Tools I'm using:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
