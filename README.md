@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-![](https://commonmark.org/help/images/favicon.png)
+![](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/youtube.svg" />)
 
 ### Languages and Tools I'm using:
 
