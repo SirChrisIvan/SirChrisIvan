@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I love to Read and ride my FixedGear Bike to relax
 
 ### Connect with me:
-![https://www.youtube.com/channel/UC2ii8jgXQ5uWtZhoEk0_tTQ]()
-[![Youtube](/assets/images/youtube.png 'youtube icon' <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>)](https://www.youtube.com/channel/UC2ii8jgXQ5uWtZhoEk0_tTQ)
+
+[![Youtube](/assets/images/youtube.png 'youtube icon'](https://www.youtube.com/channel/UC2ii8jgXQ5uWtZhoEk0_tTQ)
