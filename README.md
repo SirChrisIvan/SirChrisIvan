@@ -10,18 +10,7 @@
 
 ### Connect with me:
 
-
-[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />./img/youtube-light.svg)](https://www.youtube.com/@chrisivanovski1750#gh-light-mode-only)
-[![website](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />./img/youtube-dark.svg)](https://www.youtube.com/@chrisivanovski1750#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chris-ivanovski-453a61117/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chris-ivanovski-453a61117/r#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+![](https://commonmark.org/help/images/favicon.png)
 
 ### Languages and Tools I'm using:
 
