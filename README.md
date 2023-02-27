@@ -10,4 +10,4 @@
 
 ### Connect with me:
 
-[![Youtube](/assets/images/youtube.png 'youtube icon'](https://www.youtube.com/channel/UC2ii8jgXQ5uWtZhoEk0_tTQ)
+[![youtube](assets/images/youtube.png )](https://www.youtube.com/channel/UC2ii8jgXQ5uWtZhoEk0_tTQ)
