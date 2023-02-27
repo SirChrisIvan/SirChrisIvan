@@ -11,3 +11,4 @@
 ### Connect with me:
 
 [![youtube](assests/images/icons8-youtube-48.png)](https://www.youtube.com/channel/UC2ii8jgXQ5uWtZhoEk0_tTQ)
+[![GitHub](assests/images/icons8-github-50.png)](https://github.com/SirChrisIvan)
